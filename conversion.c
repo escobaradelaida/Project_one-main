@@ -23,7 +23,7 @@ int main()
         {
             return 0;
         }
-//use swich statement to go through all the menu choices and to put in all the conversion equations to their respective areas
+//use switch statement to go through all the menu choices and to put in all the conversion equations to their respective areas
     switch(choice){
         case 1:
         printf("How many degrees Celcius?: ");
